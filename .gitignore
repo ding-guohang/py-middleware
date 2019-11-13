@@ -1,0 +1,13 @@
+.pyc
+.DS_Store
+.idea
+.idea/*
+*.log
+*.log*
+*.pyc
+.log
+venv
+debug_project.py
+.test.log
+__debug.py
+*.tar.gz
